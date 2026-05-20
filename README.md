@@ -138,7 +138,7 @@ life_goal: "To build something that changes the world 🌟"
 <!-- Featured Projects -->
 🚀 Featured Projects
 <div align="center">
-<a href="https://github.com/Wrezlee/project-1">
+<a href="https://github.com/Wrezlee/tarot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wrezlee&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF" alt="Project 1" />
 </a>
 <a href="https://github.com/Wrezlee/project-2">
