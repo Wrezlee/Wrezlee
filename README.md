@@ -187,6 +187,4 @@ https://open.spotify.com/user/Wrezlee
 <!-- Footer -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:3A7BD5,100:00D2FF&height=150&section=footer&text=Thanks%20for%20Visiting!%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
-⭐ Star some repos if you find them interesting! ⭐
-Made with ❤️ and lots of ☕ by Wrezlee
 </div>
