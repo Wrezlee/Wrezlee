@@ -154,7 +154,7 @@ life_goal: "To build something that changes the world 🌟"
 <!-- Connect Section -->
 🌐 Let's Connect
 <div align="center">
-  <a href="https://discord.com/users/wrezlee" target="_blank">
+  <a href="https://discord.com/users/548835545552257034" target="_blank">
     <img src="https://img.shields.io/badge/Discord-@wrezlee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:risky50putra@gmail.com" target="_blank">
