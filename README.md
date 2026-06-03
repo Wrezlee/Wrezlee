@@ -175,7 +175,7 @@ life_goal: "To build something that changes the world 🌟"
 <!-- Spotify Now Playing -->
 🎵 Now Playing
 <div align="center">
-https://open.spotify.com/user/31rsiz4awkgsbmtwdraxt4rplmji?si=6ea6594177264f81
+https://open.spotify.com/Psyanuar
 </div>
 
 <!-- Random Dev Quote -->
