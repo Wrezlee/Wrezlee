@@ -165,11 +165,13 @@ life_goal: "To build something that changes the world 🌟"
 <!-- Spotify Now Playing -->
 🎵 Now Playing
 <div align="center">
-  <br>
+
   <a href="https://open.spotify.com/user/31rsiz4awkgsbmtwdraxt4rplmji" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rsiz4awkgsbmtwdraxt4rplmji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rsiz4awkgsbmtwdraxt4rplmji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&hide_remaster=false" alt="Spotify Now Playing" />
   </a>
+
 </div>
+
 <!-- Random Dev Quote -->
 💭 Dev Quote of the Day
 <div align="center">
