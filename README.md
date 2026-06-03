@@ -162,14 +162,14 @@ life_goal: "To build something that changes the world 🌟"
   </a>
 </div>
 
-<!-- Spotify Profile -->
-🎵 Now Playing Profile
+<!-- Spotify Now Playing -->
+🎵 Now Playing
 <div align="center">
-  <a href="https://open.spotify.com/user/31rsiz4awkgsbmtwdraxt4rplmji?si=8454b7ec2d1b4928" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Psyanuar-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+  <br>
+  <a href="https://open.spotify.com/user/31rsiz4awkgsbmtwdraxt4rplmji" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rsiz4awkgsbmtwdraxt4rplmji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=false" alt="Spotify Now Playing" />
   </a>
 </div>
-
 <!-- Random Dev Quote -->
 💭 Dev Quote of the Day
 <div align="center">
