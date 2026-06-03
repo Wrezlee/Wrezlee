@@ -172,10 +172,12 @@ life_goal: "To build something that changes the world 🌟"
 </a>
 </div>
 
-<!-- Spotify Now Playing -->
-🎵 Now Playing
+<!-- Spotify Profile -->
+🎵 Now Playing Profile
 <div align="center">
-https://open.spotify.com/Psyanuar
+  <a href="https://open.spotify.com/user/31rsiz4awkgsbmtwdraxt4rplmji?si=8454b7ec2d1b4928" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Psyanuar-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+  </a>
 </div>
 
 <!-- Random Dev Quote -->
