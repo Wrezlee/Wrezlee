@@ -14,7 +14,7 @@
 yaml
 Copy
 name: Wrezlee
-role: Full Stack Developer & AI Enthusiast
+role: Full Stack & Mobile Developer
 location: "🌍 World Wide Web"
 motto: "Code is poetry, bugs are just... modern art"
 
